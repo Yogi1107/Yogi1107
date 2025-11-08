@@ -38,15 +38,21 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
+        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65">
       </a>
-      <br>JavaScript
+      <br>HTML
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
+        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65">
       </a>
-      <br>React
+      <br>CSS
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
+      </a>
+      <br>JavaScript
     </td>
     <td align="center" width="100">
       <a href="#">
@@ -69,7 +75,7 @@
   </tr>
 </table>
 
-
+---
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yogiraj-bhilare-bb3896253" target="_blank">
