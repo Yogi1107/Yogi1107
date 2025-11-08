@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Yogiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogirajBhilare&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YogirajBhilare&theme=radical)
-![Yogiraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YogirajBhilare&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+![Yogiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogi1107&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=radical)
+![Yogiraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
 
