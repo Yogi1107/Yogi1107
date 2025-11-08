@@ -10,6 +10,6 @@
 - 📊 Stock Portfolio Tracker  
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+- [LinkedIn][(https://www.linkedin.com/in/yogiraj-bhilare-bb3896253)]
 - [GitHub](https://github.com/YOUR-USERNAME)
 - [Email](yogirajbhilare1107@gmail.com)
