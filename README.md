@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Yogi1107/Disability-Assistant-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Disability-Assistant-App&theme=radical" alt="Disability Assistant Application" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Disability-Assistant-Application&theme=radical" alt="Disability Assistant Application" />
   </a>
   <a href="https://github.com/Yogi1107/Personalized-Study-Coach">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Personalized-Study-Coach&theme=radical" alt="Personalized Study Coach" />
