@@ -18,14 +18,6 @@
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65">
-      <br>HTML
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65">
-      <br>CSS
-    </td>
-    <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
       <br>JavaScript
     </td>
@@ -43,6 +35,9 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ---
 
