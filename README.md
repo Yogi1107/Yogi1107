@@ -11,7 +11,7 @@
 ## 🚀 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Yogi1107/Disability-Assistant-App">
+  <a href="https://github.com/Yogi1107/Disability-Assistant-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Disability-Assistant-App&theme=radical" alt="Disability Assistant Application" />
   </a>
   <a href="https://github.com/Yogi1107/Personalized-Study-Coach">
@@ -32,7 +32,6 @@
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 
   <!-- Data Science / AI -->
@@ -69,7 +68,7 @@
   <a href="mailto:yogirajbhilare1107@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/yogiraj_bhilare._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
