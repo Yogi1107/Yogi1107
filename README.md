@@ -5,11 +5,10 @@
 🧠 Passionate about Machine Learning, NLP, and AI Applications  
 
 ## 🚀 Projects
-- 🧮 Data Analytics Internship at Cognifyz Technologies  
-- 💬 Basic Chatbot using Python  
-- 📊 Stock Portfolio Tracker  
+- Disability Assistant Application
+- Personalized Study Coach
 
 ## 📫 Let's Connect
-- [LinkedIn][(https://www.linkedin.com/in/yogiraj-bhilare-bb3896253)]
-- [GitHub](https://github.com/YOUR-USERNAME)
-- [Email](yogirajbhilare1107@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/yogiraj-bhilare-bb3896253)
+- [GitHub](https://github.com/Yogi1107)
+- Email : yogirajbhilare1107@gmail.com
