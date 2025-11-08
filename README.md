@@ -26,36 +26,49 @@
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧰 Tech Stack
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65">
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65">
+      </a>
+      <br>REST API
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
 
-  <!-- Data Science / AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45"/>
-
-  <!-- Web & Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
-
-  <!-- Tools & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="45" height="45"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 <p align="center">
