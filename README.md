@@ -41,9 +41,21 @@
 
 ---
 
-## 🚀 Projects
-- Disability Assistant Application  
-- Personalized Study Coach  
+## 🚀 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Yogi1107/Disability-Assistant-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Disability-Assistant-Application&theme=radical" alt="Disability Assistant Application" />
+  </a>
+  <a href="https://github.com/Yogi1107/Personalized-Study-Coach">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Personalized-Study-Coach&theme=radical" alt="Personalized Study Coach" />
+  </a>
+</p>
+
+<p align="center">
+🦾 <b>Disability Assistant Application</b> — AI-powered assistant designed to support users with accessibility needs. <br>
+📚 <b>Personalized Study Coach</b> — Intelligent study planner and recommender using data-driven learning insights.
+</p>
 
 ---
 
