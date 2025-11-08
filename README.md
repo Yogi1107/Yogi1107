@@ -63,7 +63,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/yogiraj_bhilare._" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
