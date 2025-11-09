@@ -50,6 +50,9 @@
   <a href="https://github.com/Yogi1107/Personalized-Study-Coach">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Personalized-Study-Coach&theme=radical" alt="Personalized Study Coach" />
   </a>
+  <a href="https://github.com/Yogi1107/Interactive-Graph-Visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Interactive-Graph-Visualizer&theme=radical" alt="Personalized Study Coach" />
+  </a>
 </p>
 
 <p align="center">
