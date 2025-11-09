@@ -57,7 +57,8 @@
 
 <p align="center">
 🦾 <b>Disability Assistant Application</b> — AI-powered assistant designed to support users with accessibility needs. <br>
-📚 <b>Personalized Study Coach</b> — Intelligent study planner and recommender using data-driven learning insights.
+📚 <b>Personalized Study Coach</b> — Intelligent study planner and recommender using data-driven learning insights. <br>
+🌳 <b>MST Visualizer</b> - Interactive web-based visualizer for Minimum Spanning Tree algorithms (Kruskal's & Prim's) with step-by-step visualization.
 </p>
 
 ---
