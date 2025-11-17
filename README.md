@@ -89,7 +89,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yogi1107&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=radical" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=highcontrast" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
