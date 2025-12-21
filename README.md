@@ -85,6 +85,14 @@
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Yogi1107&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
