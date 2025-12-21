@@ -88,7 +88,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=yogirajbhilare1107&theme=dark&showRank=true&showDifficulty=true" />
+  <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" />
 </p>
 
 ---
