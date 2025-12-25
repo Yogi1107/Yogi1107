@@ -61,7 +61,7 @@
 <p align="center">
 🦾 <b>Disability Assistant Application</b> — AI-powered assistant designed to support users with accessibility needs. <br>
 📚 <b>Personalized Study Coach</b> — Intelligent study planner and recommender using data-driven learning insights. <br>
-🌳 <b>MST Visualizer</b> - Interactive web-based visualizer for Minimum Spanning Tree algorithms (Kruskal's & Prim's) with step-by-step visualization.
+🌳 <b>MST Visualizer</b> - Interactive web-based visualizer for Minimum Spanning Tree algorithms (Kruskal's & Prim's) with step-by-step visualization.<br>
     <b>AI Resume Screener</b> - An end-to-end AI-powered Resume Screening System that evaluates a candidate's resume against a given job description using a Large Language Model (LLM).
 </p>
 
