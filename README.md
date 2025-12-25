@@ -53,12 +53,16 @@
   <a href="https://github.com/Yogi1107/Interactive-Graph-Visualizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=Interactive-Graph-Visualizer&theme=radical" alt="Personalized Study Coach" />
   </a>
+  <a href="https://github.com/Yogi1107/AI_Resume_Screener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogi1107&repo=AI_Resume_Screener&theme=radical" alt="AI Resume Screener" />
+  </a>
 </p>
 
 <p align="center">
 🦾 <b>Disability Assistant Application</b> — AI-powered assistant designed to support users with accessibility needs. <br>
 📚 <b>Personalized Study Coach</b> — Intelligent study planner and recommender using data-driven learning insights. <br>
 🌳 <b>MST Visualizer</b> - Interactive web-based visualizer for Minimum Spanning Tree algorithms (Kruskal's & Prim's) with step-by-step visualization.
+    <b>AI Resume Screener</b> - An end-to-end AI-powered Resume Screening System that evaluates a candidate's resume against a given job description using a Large Language Model (LLM).
 </p>
 
 ---
