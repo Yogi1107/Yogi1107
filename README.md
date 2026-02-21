@@ -76,6 +76,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![HackerRank](https://www.hackerrank.com/badges/profile/yogirajbhilare11)](https://www.hackerrank.com/yogirajbhilare11)
 
 ---
 
@@ -85,8 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yogi1107&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=highcontrast" alt="GitHub Streak" height="170"/>
 </p>
-
-  [![HackerRank](https://www.hackerrank.com/badges/profile/yogirajbhilare11)](https://www.hackerrank.com/your_username)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
