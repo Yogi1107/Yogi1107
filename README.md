@@ -79,12 +79,16 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub / Leetcode / Hackerrank Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yogi1107&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=highcontrast" alt="GitHub Streak" height="170"/>
 </p>
+
+<p align='center'>
+  [![HackerRank](https://www.hackerrank.com/badges/profile/yogirajbhilare11)](https://www.hackerrank.com/your_username)
+</p>p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
