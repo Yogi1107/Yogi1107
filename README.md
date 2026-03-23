@@ -76,11 +76,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![HackerRank](https://www.hackerrank.com/badges/profile/yogirajbhilare11)](https://www.hackerrank.com/yogirajbhilare11)
 
 ---
 
-## 📊 GitHub / Leetcode / Hackerrank Stats & Activity
+## 📊 GitHub / Leetcode Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yogi1107&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
