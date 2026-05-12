@@ -23,7 +23,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 <h1>Skills</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,postgres,mongodb,git,github,vscode,tailwind,js,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,postgres,mongodb,git,github,vscode,tailwind,js,html,css&perline=6" />
 </p>
 
 ---
