@@ -67,7 +67,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 <h5>Leetcode Stats</h5> 
 <p align="center"> <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" /> </p> 
 <h5>Hackerank Stats</h5> 
-<p>[![HackerRank](https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11)](https://www.hackerrank.com/yogirajbhilare11)</p>
+<p> <img src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11"/></p>
 
 ---
 
