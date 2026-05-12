@@ -20,13 +20,17 @@ I build things end-to-end — from normalized database schemas and production-gr
 ---
 
 <!-- SECTION 4: Skill Icons -->
+<h1>Skills</h1>
+--
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,postgres,mongodb,git,github,vscode,postman,tailwind,js,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,postgres,mongodb,git,github,vscode,tailwind,js,html,css&perline=8" />
 </p>
 
 ---
 
 <!-- SECTION 5: GitHub Stats Trifecta -->
+<h1>Gihub Stats</h1>
+<h5>Streak Score</h5>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=tokyonight&hide_border=true" height="170"/>
 </p>
@@ -34,6 +38,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 ---
 
 <!-- SECTION 6: Activity Graph -->
+<h5>Activity Graph</h5>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&theme=tokyo-night&hide_border=true&area=true" />
 </p>
@@ -42,6 +47,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 
 <!-- SECTION 7: Snake Animation -->
 <!-- ⚠️ Only add this after you've run the GitHub Action. Instructions in message above. -->
+<h5>Contribution Graph</h5>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake-dark.svg">
@@ -52,6 +58,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 ---
 
 <!-- SECTION 8: Trophies -->
+<h5>Github Trophies</h5>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yogi1107&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
@@ -87,16 +94,6 @@ End-to-end churn pipeline on 7,044 records. Logistic Regression with SHAP explai
 Role-based quiz app for visually impaired students — voice command navigation, full screen reader support. Production Flask API with connection pooling, Gunicorn WSGI, and a normalized PostgreSQL schema with JSONB storage.
 
 `Flask` `PostgreSQL` `Gunicorn` `Werkzeug` `Accessibility`
-
----
-
-## Stack
-
-| Backend | Frontend | Data & AI | Databases | Tools |
-|---|---|---|---|---|
-| Flask · Django | React 18 | Pandas · NumPy | PostgreSQL | Git · GitHub |
-| Node.js · Express | Tailwind CSS | Scikit-learn · SHAP | MongoDB Atlas | Postman |
-| REST APIs · Gunicorn | Bootstrap | Groq API · RAG · Streamlit | MySQL | Werkzeug · JWT |
 
 ---
 
