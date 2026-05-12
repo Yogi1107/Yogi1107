@@ -66,6 +66,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 <!--- Leetcode & Hackerrank Stats -->
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" width="49%" />
+  <div width="10%"></div>
   <img src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11" width="30%" />
 </div>
 
