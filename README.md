@@ -26,11 +26,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 
 <!-- SECTION 5: GitHub Stats Trifecta -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogi1107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogi1107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
 </p>
 
 ---
