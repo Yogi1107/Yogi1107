@@ -21,7 +21,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 
 <!-- SECTION 4: Skill Icons -->
 <h1>Skills</h1>
---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,postgres,mongodb,git,github,vscode,tailwind,js,html,css&perline=8" />
 </p>
@@ -66,7 +66,7 @@ I build things end-to-end — from normalized database schemas and production-gr
 <!--- Leetcode & Hackerrank Stats -->
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" width="49%" />
-  <img src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11" width="49%" />
+  <img src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11" width="30%" />
 </div>
 
 ---
