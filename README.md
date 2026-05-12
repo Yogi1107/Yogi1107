@@ -4,7 +4,7 @@
 </p>
 
 <!-- SECTION 2: Name + Badge -->
-<h1>Yogiraj Bhilare &nbsp;<img src="https://img.shields.io/badge/Open%20to%20Placements-2026-4CAF50?style=flat-square" /></h1>
+<h1>Yogiraj Bhilare</h1>
 
 **Full-stack Python developer · M.Sc. Computer Science, Fergusson College · Graduating 2026**
 
