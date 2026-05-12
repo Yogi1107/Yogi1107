@@ -64,33 +64,10 @@ I build things end-to-end — from normalized database schemas and production-gr
 </p>
 
 <!--- Leetcode & Hackerrank Stats -->
-<div align="center">
-
-  <table>
-    <tr>
-      <!-- LeetCode Stats -->
-      <td align="center" width="50%">
-        <h3>LeetCode Stats</h3>
-        <img 
-          src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" 
-          alt="LeetCode Stats"
-        />
-      </td>
-
-      <!-- HackerRank Stats -->
-      <td align="center" width="50%">
-        <h3>HackerRank Stats</h3>
-        <a href="https://www.hackerrank.com/yogirajbhilare11">
-          <img 
-            src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11" 
-            alt="HackerRank Stats"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
+<h5>Leetcode Stats</h5> 
+<p align="center"> <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" /> </p> 
+<h5>Hackerank Stats</h5> 
+<p>[![HackerRank](https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11)](https://www.hackerrank.com/yogirajbhilare11)</p>
 
 ---
 
