@@ -14,7 +14,7 @@
 
 <!-- SECTION 3: About -->
 <h1>About</h1>
---
+
 I build things end-to-end — from normalized database schemas and production-grade REST APIs to the UI that sits on top. My stack lives mostly in Python and JavaScript, and I've been exploring how LLMs can make apps genuinely smarter: RAG pipelines, SHAP explainability, automated GitHub skill analysis. I care about code that works in production — connection pooling, WSGI servers, cascading constraints — not just notebooks and demos.
 
 ---
