@@ -51,12 +51,10 @@ Role-based quiz app for visually impaired students — voice command navigation,
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<h5>Contribution Graph</h5>
+<h1>Gihub Stats</h1>
+<h5>Streak Score</h5>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <div align="center">
