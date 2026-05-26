@@ -6,7 +6,7 @@
 <!-- SECTION 2: Name + Badge -->
 <h1>Yogiraj Bhilare</h1>
 
-**Full-stack Python developer · M.Sc. Computer Science, Fergusson College · Graduating 2026**
+**Full-stack Python developer · M.Sc. Computer Science, Fergusson College · Graduating 2027**
 
 `Flask` `Django` `React` `Node.js` `PostgreSQL` `MongoDB` `RAG` · Pune, Maharashtra
 
@@ -28,22 +28,18 @@ I build things end-to-end — from normalized database schemas and production-gr
 
 ---
 
-<!-- SECTION 5: GitHub Stats Trifecta -->
-<h1>Gihub Stats</h1>
-<h5>Streak Score</h5>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+## GitHub Stats
 
----
-
-<!-- SECTION 6: Activity Graph -->
-<h5>Activity Graph</h5>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=tokyonight&hide_border=true" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&theme=tokyo-night&hide_border=true&area=true" height="170"/>
+    </td>
+  </tr>
+</table>
 
 <!-- SECTION 7: Snake Animation -->
 <!-- ⚠️ Only add this after you've run the GitHub Action. Instructions in message above. -->
