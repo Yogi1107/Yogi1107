@@ -1,75 +1,14 @@
-<!-- SECTION 1: Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Full-Stack+Python+Developer;Flask+%7C+React+%7C+PostgreSQL;Building+for+production%2C+not+just+demos" alt="Typing SVG" />
-</p>
+# Yogiraj Bhilare
 
-<!-- SECTION 2: Name + Badge -->
-<h1>Yogiraj Bhilare</h1>
-
-**Full-stack Python developer · M.Sc. Computer Science, Fergusson College · Graduating 2026**
+**Full-stack Python Developer · M.Sc. Computer Science, Fergusson College · Graduating 2026**
 
 `Flask` `Django` `React` `Node.js` `PostgreSQL` `MongoDB` `RAG` · Pune, Maharashtra
 
 ---
 
-<!-- SECTION 3: About -->
-<h1>About</h1>
+## About
 
 I build things end-to-end — from normalized database schemas and production-grade REST APIs to the UI that sits on top. My stack lives mostly in Python and JavaScript, and I've been exploring how LLMs can make apps genuinely smarter: RAG pipelines, SHAP explainability, automated GitHub skill analysis. I care about code that works in production — connection pooling, WSGI servers, cascading constraints — not just notebooks and demos.
-
----
-
-<!-- SECTION 4: Skill Icons -->
-<h1>Skills</h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,postgres,mongodb,git,github,vscode,tailwind,js,html,css&perline=7" />
-</p>
-
----
-
-<!-- SECTION 5: GitHub Stats Trifecta -->
-<h1>Gihub Stats</h1>
-<h5>Streak Score</h5>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogi1107&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-<!-- SECTION 6: Activity Graph -->
-<h5>Activity Graph</h5>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<!-- SECTION 7: Snake Animation -->
-<!-- ⚠️ Only add this after you've run the GitHub Action. Instructions in message above. -->
-<h5>Contribution Graph</h5>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-<!-- SECTION 8: Trophies -->
-<h5>Github Trophies</h5>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogi1107&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<!--- Leetcode & Hackerrank Stats -->
-<div align="center">
-  <h5>Leetcode Stats</h5>
-  <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" width="49%" />
-  <h5>HackerRank Stats</h5>
-  <img src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11" width="30%" />
-</div>
 
 ---
 
@@ -105,10 +44,29 @@ Role-based quiz app for visually impaired students — voice command navigation,
 
 ---
 
-<!-- SECTION 11: Profile Views + Contact -->
+## Stats
+
+<h5>Activity Graph</h5>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yogi1107&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogi1107&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+<h5>Contribution Graph</h5>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<div align="center">
+  <h5>LeetCode Stats</h5>
+  <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" width="49%" />
+  <h5>HackerRank Stats</h5>
+  <img src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11" width="30%" />
+</div>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yogiraj-bhilare-bb3896253">
