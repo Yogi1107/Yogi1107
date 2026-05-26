@@ -41,31 +41,19 @@ I build things end-to-end — from normalized database schemas and production-gr
   </tr>
 </table>
 
-<!-- SECTION 7: Snake Animation -->
-<!-- ⚠️ Only add this after you've run the GitHub Action. Instructions in message above. -->
-<h5>Contribution Graph</h5>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Yogi1107/Yogi1107/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-<!-- SECTION 8: Trophies -->
-<h5>Github Trophies</h5>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogi1107&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 <!--- Leetcode & Hackerrank Stats -->
-<div align="center">
-  <h5>Leetcode Stats</h5>
-  <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" width="49%" />
-  <h5>HackerRank Stats</h5>
-  <img src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11" width="30%" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h5>LeetCode Stats</h5>
+      <img src="https://leetcard.jacoblin.cool/yogirajbhilare1107?theme=dark&font=Karma" height="200"/>
+    </td>
+    <td align="center">
+      <h5>HackerRank Stats</h5>
+      <img src="https://hackerrank-stats.vercel.app/api?username=yogirajbhilare11" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
