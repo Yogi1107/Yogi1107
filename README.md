@@ -8,7 +8,7 @@
 
 **Full-stack Python developer · M.Sc. Computer Science, Fergusson College · Graduating 2027**
 
-`Flask` `Django` `React` `Node.js` `PostgreSQL` `MongoDB` `RAG` · Pune, Maharashtra
+`Flask` `Django` `React` `Node.js` `PostgreSQL` `MongoDB` · Pune, Maharashtra
 
 ---
 
@@ -40,6 +40,8 @@ I build things end-to-end — from normalized database schemas and production-gr
     </td>
   </tr>
 </table>
+
+## Coding Stats
 
 <!--- Leetcode & Hackerrank Stats -->
 <table align="center">
